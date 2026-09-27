@@ -2,7 +2,6 @@
 Its meant to be used to track time of coding, by simply inserting start and end time.
 -------------------------------------------------------------------------------------
 
-
 What i used to make it work:
 ---------------------------
 
@@ -15,7 +14,6 @@ SqLite
 Spectre console
 
 Ai
-
 
 Features
 --------
